@@ -26,4 +26,3 @@ I also build web applications for clients (portals, dashboards, backend systems 
 ## Get in touch
 
 - WhatsApp: [01068361383](https://wa.me/201068361383)
-- UI/UX portfolio: [mostafa3srawy-cyber.github.io/uiux-portfolio](https://mostafa3srawy-cyber.github.io/uiux-portfolio/)
